@@ -45,7 +45,7 @@ Construção de métricas para suporte à tomada de decisão
 
 Você pode:
 
-📄 Visualizar a análise completa no arquivo relatorio.pdf
+📄 Visualizar a análise completa no arquivo black-friday-sales-analysis.pdf
 
 🗃 Utilizar a base de dados disponível para executar as consultas
 
