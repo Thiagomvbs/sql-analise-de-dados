@@ -31,5 +31,30 @@ GitHub (versionamento)
 Markdown (documentação)
 
 
+📈 Resultados Obtidos
 
+Identificação de categorias com maior potencial de crescimento
 
+Análise de tendência temporal de vendas
+
+Comparação estratégica entre fornecedores
+
+Construção de métricas para suporte à tomada de decisão
+
+📂 Como Explorar o Projeto
+
+Você pode:
+
+📄 Visualizar a análise completa no arquivo relatorio.pdf
+
+🗃 Utilizar a base de dados disponível para executar as consultas
+
+💻 Consultar todos os comandos utilizados no arquivo script.sql
+
+Caso deseje reproduzir a análise:
+
+Importe a base de dados no seu ambiente SQL (SQLite ou similar)
+
+Execute as consultas presentes no arquivo script.sql
+
+Gere suas próprias análises ou adapte as queries para novos insights
